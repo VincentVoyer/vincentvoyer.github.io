@@ -1,0 +1,56 @@
+
+.cv:before, .cv:after{
+    content: "";
+    display: table;
+}
+.cv:after{
+    clear: both;
+}
+.cv{
+	margin: 0 -10px;
+    zoom: 1;
+    height: auto;
+}
+
+.cv_item:before, .cv_item:after{
+    content: "";
+    display: table;
+}
+.cv_item:after{
+    clear: both;
+}
+.cv_item{
+    zoom: 1;
+    height: auto;
+	float: left;
+    position: relative;
+    padding:  0 10px;
+    height: auto;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.cv_item_title{
+	font-weight: bold;
+	font-size: 240%; 
+	width: 100%;
+	text-decoration: underline;
+}
+
+.cv_subitem_title{
+    font-weight: bold;
+    font-size: 120%; 
+    width: 100%;
+    text-decoration: underline;
+}
+
+.cv_item_content{
+	width: 100%;
+}
+
+.cv_annotation{
+    width: 100%;
+    font-size: 75%;
+    font-style: italic;
+    color: gray;
+}
