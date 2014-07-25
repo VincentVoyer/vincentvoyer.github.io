@@ -4,8 +4,8 @@ email: vincent.voyer03@gmail.com
 description: "Ce site présente mes différents projets et mes différentes activités."
 baseurl: ""
 url: ""
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: VincentVoyer1
+github_username:  VincentVoyer
 paginate : 4
 paginate_path : "project/:num"
 
