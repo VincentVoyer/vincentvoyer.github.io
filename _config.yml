@@ -2,8 +2,8 @@
 title: Vincent Voyer
 email: vincent.voyer03@gmail.com
 description: "Ce site présente mes différents projets et mes différentes activités."
-baseurl: "http(s)://vincentvoyer.github.io"
-url: ""
+baseurl: "https://vincentvoyer.github.io"
+url: "https://vincentvoyer.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 paginate : 4
