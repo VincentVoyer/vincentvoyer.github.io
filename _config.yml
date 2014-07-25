@@ -15,7 +15,3 @@ permalink: pretty
 
 pygments: true
 github: "vincentvoyer"
-
-safe:true
-lsi:false
-source:"vincentvoyer.github.io"
