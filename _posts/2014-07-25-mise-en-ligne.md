@@ -3,7 +3,6 @@ layout: post
 title: Mise en ligne
 cover: cover.jpg
 date:   2014-07-25 22:48:00
-categories: posts
 ---
 
 <p>

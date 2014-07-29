@@ -7,7 +7,7 @@ url: ""
 twitter_username: VincentVoyer1
 github_username:  VincentVoyer
 paginate : 4
-paginate_path : "project/:num"
+paginate_path : "news/:num"
 
 # Build settings
 markdown: kramdown
