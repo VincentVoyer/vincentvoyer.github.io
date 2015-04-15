@@ -103,6 +103,25 @@ permalink: /cv/
 				<div class ="cv_subitem_title">Mes Stages</div>
 				<div class ="cv_item_content">
 					<div class = "cv_item">
+						<div class ="cv_subitem_title">NSE (Du 23 Février 2015 à aujourd'hui)</div>
+						<div class ="cv_item_content">
+							<div class = "cv_annotation">
+							à Abrest (03) 
+							</div>
+							<div class = "cv_annotation">
+							<a href="http://www.nse-groupe.com/">site web</a>
+							</div>
+							<p>
+							Développeur Axapta (ERP Microsoft). Développement et maintient de l'Erp (langage X++).
+							</p>	
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class = "cv_item">
+				<div class ="cv_subitem_title">Mes Stages</div>
+				<div class ="cv_item_content">
+					<div class = "cv_item">
 						<div class ="cv_subitem_title">Axis Informatique (Du 17 Février à 9 Mai 2014 et du 23 Juin au 28 Juilllet 2014)</div>
 						<div class ="cv_item_content">
 							<div class = "cv_annotation">
