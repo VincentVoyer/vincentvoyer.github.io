@@ -100,7 +100,7 @@ permalink: /cv/
 		<div class = "cv_item_content">
 			<br/>
 			<div class = "cv_item">
-				<div class ="cv_subitem_title">Mes Stages</div>
+				<div class ="cv_subitem_title">Mes expériences professionnelles</div>
 				<div class ="cv_item_content">
 					<div class = "cv_item">
 						<div class ="cv_subitem_title">NSE (Du 23 Février 2015 à aujourd'hui)</div>
@@ -112,7 +112,7 @@ permalink: /cv/
 							<a href="http://www.nse-groupe.com/">site web</a>
 							</div>
 							<p>
-							Développeur Axapta (ERP Microsoft). Développement et maintient de l'Erp (langage X++).
+							Développeur Axapta (ERP Microsoft), X++. Développement et maintien de l'Erp et de sa base de données. Assistance  utilisateur.
 							</p>	
 						</div>
 					</div>
@@ -202,19 +202,19 @@ permalink: /cv/
 			<div class = "cv_item">
 				<div class ="cv_subitem_title">Fan de manga</div>
 				<div class ="cv_item_content">
-					Grand amateur de manga, bande dessinée d'origine japonaise, je lis principalement des mangas d'action/aventure, de thriller et de fantastique/fantaisy.
+					Grand amateur de manga, bande dessinée d'origine japonaise, je lis principalement des mangas d'action/aventure, de suspense et de fantastique/fantaisy.
 				</div>
 			</div>
 			<div class = "cv_item">
 				<div class ="cv_subitem_title">Musicien</div>
 				<div class ="cv_item_content">
-					Ayant pratiqué la guitare pendant 10 ans, j'aime la musique. J'aime surtout écouter du rock (One ok rock, Shinedown), de l'électro (Fail Emotions, David Guetta), du RAP (Black M, Kery James) et du Slam (Grand corps malade).
+					Ayant pratiqué la guitare pendant 10 ans, j'aime la musique. J'aime surtout écouter du rock (One ok rock, Shinedown), de l'électro (Fail Emotions), du RAP (Orelsan, Kery James).
 				</div>
 			</div>
 			<div class = "cv_item">
 				<div class ="cv_subitem_title">Sportif</div>
 				<div class ="cv_item_content">
-					Je pratique depuis 2000 le judo et plus récemment le Jujitsu dans mon club Ippon bellerive à Bellerive (03) et je viens d'obtenir (en 2014) mon goshin (je donc encore ceinture marron).
+					Je pratique depuis 2000 le judo et plus récemment le Jujitsu dans mon club Ippon bellerive à Bellerive (03) et je viens d'obtenir mon 1er dan de ceinture noire en 2015.
 				</div>
 			</div>
 		</div>
