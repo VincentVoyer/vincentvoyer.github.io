@@ -283,3 +283,9 @@ a:hover {
   font-size: 0.95em;
   color: #777;
 }
+
+.banniere{
+    height : 200px; 
+    width : 97%; 
+    background : black url('/images/cover_1.png') no-repeat;
+}

@@ -16,8 +16,12 @@ Ce site a pour but me présenter brièvement mes projets github.
 {% for post in paginator.posts %}
 	<div class="postItem">
 		<a href="{{ post.url }}">
-			<img class="postImage" src="/images/GitHub.png" />
-			<div class="postTitle">{{ post.title }} - {{ post.date | date_to_string }}</div>
+      {% if post.type == "git" %}
+  			<img class="postImage" src="/images/GitHub.png" />
+      {% else %}
+        <img class="postImage" src="/images/blog.png" />
+      {% endif %}
+			<div class="postTitle">{{ post.title}}</div>
 		</a>
 	</div>	
 {% endfor %}
@@ -25,13 +29,17 @@ Ce site a pour but me présenter brièvement mes projets github.
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+    {% if paginator.previous_page == 1 %}
+      <a href="{{site.url}}/" class="previous">Previous</a>
+    {% else %}
+    <a href="/news/{{ paginator.previous_page }}" class="previous">Previous</a>
+    {% endif %}
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+    <a href="/news/{{ paginator.next_page }}" class="next">Next</a>
   {% else %}
     <span class="next ">Next</span>
   {% endif %}

@@ -2,6 +2,7 @@
 layout: post
 title: Local Drive
 date:   2015-04-15 18:00:00
+type: git
 ---
 
 <h2>Présentation</h2>
