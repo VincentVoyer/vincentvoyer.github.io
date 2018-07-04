@@ -3,6 +3,7 @@ layout: post
 title: Coupe du monde de Quidditch
 date:   2015-04-15 18:00:00
 type: git
+image: /images/hp.png
 ---
 
 <h2>Présentation</h2>

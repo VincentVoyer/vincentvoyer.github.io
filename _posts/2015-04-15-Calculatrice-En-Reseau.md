@@ -3,6 +3,7 @@ layout: post
 title: Calculatrice en réseau
 date:   2015-04-15 18:00:00
 type: git
+image: /images/calculatrice.jpg
 ---
 
 <h2>Présentation</h2>

@@ -13,34 +13,12 @@ Ce site a pour but me présenter brièvement mes projets github.
 <h2>Articles </h2>
 
 <div class="postCover">
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 	<div class="postItem">
 		<a href="{{ post.url }}">
-      {% if post.type == "git" %}
-  			<img class="postImage" src="/images/GitHub.png" />
-      {% else %}
-        <img class="postImage" src="/images/blog.png" />
-      {% endif %}
+      <img class="postImage" src="{{ post.image }}" />
 			<div class="postTitle">{{ post.title}}</div>
 		</a>
-	</div>	
+	</div>
 {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-      <a href="{{site.url}}/" class="previous">Previous</a>
-    {% else %}
-    <a href="/news/{{ paginator.previous_page }}" class="previous">Previous</a>
-    {% endif %}
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="/news/{{ paginator.next_page }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
 </div>
