@@ -1,9 +1,21 @@
-<div class="header">
-  <h1 class="title">
-    <a href="{{site.url}}/">
-      <img id="logo" src="/images/logo.png">
-     </a>
-  </h1>
-  <span class="tagline">{{ site.title }}</span>
-</div>
-
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="{{site.url}}/"><span>{{ site.title }}</span></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="{{site.url}}/">Home</a></li>
+		<li><a href="{{site.url}}/projects/">Projects</a></li>
+		<li><a href="{{site.url}}/resume/">Resume</a></li>
+		<li><a href="{{site.url}}/about/">About</a></li>
+        <li><a href="{{site.url}}/contact/">Contact</a></li>
+      </ul>      
+    </div>
+  </div>
+</nav>

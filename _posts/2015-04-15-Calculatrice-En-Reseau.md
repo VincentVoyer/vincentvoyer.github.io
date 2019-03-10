@@ -3,7 +3,8 @@ layout: post
 title: Calculatrice en réseau
 date:   2015-04-15 18:00:00
 type: git
-image: /images/calculatrice.jpg
+image: /img/GitHub.png
+resume: Calculatrice en réseau où calcul et l'affichage sont séparés.
 ---
 
 <h2>Présentation</h2>

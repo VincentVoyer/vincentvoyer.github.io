@@ -3,7 +3,8 @@ layout: post
 title: lecteur de flux Rss
 date:   2015-04-15 18:00:00
 type: git
-image: /images/rss.png
+image: /img/GitHub.png
+resume: Le principe de ce projet est de pouvoir lire des flux rss...
 ---
 
 <h2>Présentation</h2>

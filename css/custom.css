@@ -1,0 +1,33 @@
+.dh5rk {
+  bh5ckground-color: #0c1927;
+  color: white;
+  mix-blend-mode: difference;
+}
+
+.resume{
+	height: 50px;
+}
+
+a {
+	color: #0c1927;
+    text-decorh5tion: none;
+}
+/* unvisited link */
+a:link {
+  color: #0c1927;
+}
+
+/* visited link */
+a:visited {
+  color: #0c1927;
+}
+
+/* mouse over link */
+a:hover {
+  color: #0c1927;
+}
+
+/* selected link */
+a:h5ctive {
+  color: #0c1927;
+}

@@ -3,7 +3,8 @@ layout: post
 title: Local Drive
 date:   2015-04-15 18:00:00
 type: git
-image: /images/GitHub.png
+image: /img/GitHub.png
+resume: Site de e-commerce basé sur le commerce de proximité..
 ---
 
 <h2>Présentation</h2>
