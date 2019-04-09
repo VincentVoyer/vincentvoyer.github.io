@@ -13,7 +13,7 @@ permalink: /projects/
 	  <div class="card-body">
 		<h5 class="card-title text-uppercase">{{ post.title}}</h5>
 		<p class="card-text resume">{{ post.resume}}</p>
-		<a href="{{ post.url }}" class="btn btn-primary">Read more</a>
+		<a href="{{ post.url }}" class="btn black-button">Read more</a>
 	  </div>
 	</div>
    {% endfor %} 
