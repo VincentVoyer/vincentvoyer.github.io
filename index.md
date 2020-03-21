@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+ 
 <div class="jumbotron">
   <div class="container text-center">
     <h1>Bienvenue ! Welcome !</h1>      
