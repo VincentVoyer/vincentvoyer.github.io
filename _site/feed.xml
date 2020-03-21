@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-21T10:32:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Vincent VOYER</title><subtitle>Ce site présente mes différents projets et mes différentes activités.</subtitle><entry><title type="html">metabolismcalculator</title><link href="http://localhost:4000/2019/04/09/metabolismcalculator/" rel="alternate" type="text/html" title="metabolismcalculator" /><published>2019-04-09T11:00:00+02:00</published><updated>2019-04-09T11:00:00+02:00</updated><id>http://localhost:4000/2019/04/09/metabolismcalculator</id><content type="html" xml:base="http://localhost:4000/2019/04/09/metabolismcalculator/">&lt;h1 id=&quot;présentation&quot;&gt;Présentation&lt;/h1&gt;
+
+&lt;p&gt;metabolismcalculator est un site ine page fait en AngularJS.&lt;/p&gt;
+
+&lt;h2 id=&quot;liens&quot;&gt;Liens&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://gitlab.com/VVOYER/metabolismcalculator&quot;&gt;Projet&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Présentation metabolismcalculator est un site ine page fait en AngularJS. Liens Projet</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/gitlab.png" /></entry><entry><title type="html">Calculatrice en réseau</title><link href="http://localhost:4000/2015/04/15/Calculatrice-En-Reseau/" rel="alternate" type="text/html" title="Calculatrice en réseau" /><published>2015-04-15T20:00:00+02:00</published><updated>2015-04-15T20:00:00+02:00</updated><id>http://localhost:4000/2015/04/15/Calculatrice-En-Reseau</id><content type="html" xml:base="http://localhost:4000/2015/04/15/Calculatrice-En-Reseau/">&lt;h2&gt;Présentation&lt;/h2&gt;
+&lt;p&gt;
+	Lors de ma Licence pro. programmation mobile, j'ai eu comme projet de réaliser une calculatrice en réseau.&lt;br /&gt;
+Le principe été simple, un client demandait à l'utlisateur des opérandes ainsi que l'opération a effectuer et&lt;br /&gt;
+un serveur effectuer l'opération puis retouner le resultats. Ce projet fu réaliser dans un premier temps en Java&lt;br /&gt;
+puis en C. Sur Github, je n'ai poster que la partie Java.&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;Réaliser avec&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/CharlesNo&quot;&gt;Charles Neau&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Liens&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/VincentVoyer/Calculatrice-Reseau-Client&quot;&gt;Projet&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Présentation Lors de ma Licence pro. programmation mobile, j'ai eu comme projet de réaliser une calculatrice en réseau. Le principe été simple, un client demandait à l'utlisateur des opérandes ainsi que l'opération a effectuer et un serveur effectuer l'opération puis retouner le resultats. Ce projet fu réaliser dans un premier temps en Java puis en C. Sur Github, je n'ai poster que la partie Java.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/GitHub.png" /></entry><entry><title type="html">Coupe du monde de Quidditch</title><link href="http://localhost:4000/2015/04/15/Coupe-Du-Monde-De-Quidditch/" rel="alternate" type="text/html" title="Coupe du monde de Quidditch" /><published>2015-04-15T20:00:00+02:00</published><updated>2015-04-15T20:00:00+02:00</updated><id>http://localhost:4000/2015/04/15/Coupe-Du-Monde-De-Quidditch</id><content type="html" xml:base="http://localhost:4000/2015/04/15/Coupe-Du-Monde-De-Quidditch/">&lt;h2&gt;Présentation&lt;/h2&gt;
+&lt;p&gt;
+	L'application est en C#/Wpf et a pour but de gérer les rencontres pour une coupe du monde&lt;br /&gt;
+de &lt;a href=&quot;http://fr.wikipedia.org/wiki/Quidditch&quot;&gt;Quidditch&lt;/a&gt;. Ce projet était un sujet de TP lors de ma Licence.
+&lt;/p&gt;
+&lt;h2&gt;Réaliser avec&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;Paul Noferi&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Liens&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/VincentVoyer/CoupeDuMondeDeQwiddich&quot;&gt;Projet&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Présentation L'application est en C#/Wpf et a pour but de gérer les rencontres pour une coupe du monde de Quidditch. Ce projet était un sujet de TP lors de ma Licence. Réaliser avec Paul Noferi Liens Projet</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/GitHub.png" /></entry><entry><title type="html">FileBox</title><link href="http://localhost:4000/2015/04/15/FileBox/" rel="alternate" type="text/html" title="FileBox" /><published>2015-04-15T20:00:00+02:00</published><updated>2015-04-15T20:00:00+02:00</updated><id>http://localhost:4000/2015/04/15/FileBox</id><content type="html" xml:base="http://localhost:4000/2015/04/15/FileBox/">&lt;h2&gt;Présentation&lt;/h2&gt;
+
+&lt;p&gt;
+	FileBox est un projet de licence. Le but de ce projet était de réaliser une application android&lt;br /&gt;
+qui communiquerais avec un webservice de type &lt;a href=&quot;http://fr.wikipedia.org/wiki/Representational_State_Transfer&quot;&gt;REST&lt;/a&gt;.
+
+&lt;/p&gt;
+&lt;h2&gt;Réaliser avec&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/vTixier1/&quot;&gt;Vincent Tixier&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Liens&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/VincentVoyer/FileBox&quot;&gt;Projet&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Présentation</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/GitHub.png" /></entry><entry><title type="html">Flood It</title><link href="http://localhost:4000/2015/04/15/FloodIt/" rel="alternate" type="text/html" title="Flood It" /><published>2015-04-15T20:00:00+02:00</published><updated>2015-04-15T20:00:00+02:00</updated><id>http://localhost:4000/2015/04/15/FloodIt</id><content type="html" xml:base="http://localhost:4000/2015/04/15/FloodIt/">&lt;h2&gt;Présentation&lt;/h2&gt;
+&lt;p&gt;
+	Le Flood-It est jeu basé sur l'innondation de l'écran avec la même couleur de pixels.&lt;br /&gt;
+A partir d'un damier multicolor, vous devez le rendre monocrome en un minimum de tour.&lt;br /&gt;
+Ce jeu est réaliser en Java.
+&lt;/p&gt;
+&lt;h2&gt;Liens&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://gitlab.com/VVOYER/FloodIt&quot;&gt;Projet&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Présentation Le Flood-It est jeu basé sur l'innondation de l'écran avec la même couleur de pixels. A partir d'un damier multicolor, vous devez le rendre monocrome en un minimum de tour. Ce jeu est réaliser en Java. Liens Projet</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/github.png" /></entry><entry><title type="html">Local Drive</title><link href="http://localhost:4000/2015/04/15/LocalDrive/" rel="alternate" type="text/html" title="Local Drive" /><published>2015-04-15T20:00:00+02:00</published><updated>2015-04-15T20:00:00+02:00</updated><id>http://localhost:4000/2015/04/15/LocalDrive</id><content type="html" xml:base="http://localhost:4000/2015/04/15/LocalDrive/">&lt;h2&gt;Présentation&lt;/h2&gt;
+&lt;p&gt;
+	Local Drive est un projet réaliser en Licence pour mettre en place les principes de responsive design&lt;br /&gt;
+des sites web. Pour ce faire, nous n'avions pas le droit d'utiliser de framework de type boostrap. Nous devions&lt;br /&gt;
+réaliser le côté responsive nous même.&lt;br /&gt;
+&lt;br /&gt;
+Ce site est un site de e-commerce basé sur le commerce de proximité. Il y a donc deux types d'utilisateurs. Les commerçants, &lt;br /&gt;
+qui ajoutent dse articles sur le site. Et les membres, qui peuvent acheter des produit.
+&lt;/p&gt;
+&lt;h2&gt;Réaliser avec&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/vTixier1/&quot;&gt;Vincent Tixier&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Liens&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/VincentVoyer/LocalDrive&quot;&gt;Projet&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Présentation Local Drive est un projet réaliser en Licence pour mettre en place les principes de responsive design des sites web. Pour ce faire, nous n'avions pas le droit d'utiliser de framework de type boostrap. Nous devions réaliser le côté responsive nous même. Ce site est un site de e-commerce basé sur le commerce de proximité. Il y a donc deux types d'utilisateurs. Les commerçants, qui ajoutent dse articles sur le site. Et les membres, qui peuvent acheter des produit. Réaliser avec Vincent Tixier Liens Projet</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/GitHub.png" /></entry><entry><title type="html">lecteur de flux Rss</title><link href="http://localhost:4000/2015/04/15/RssReader/" rel="alternate" type="text/html" title="lecteur de flux Rss" /><published>2015-04-15T20:00:00+02:00</published><updated>2015-04-15T20:00:00+02:00</updated><id>http://localhost:4000/2015/04/15/RssReader</id><content type="html" xml:base="http://localhost:4000/2015/04/15/RssReader/">&lt;h2&gt;Présentation&lt;/h2&gt;
+&lt;p&gt;
+	Réaliser en DUT, cette application avais pour but de m'exercer sur la manipulation&lt;br /&gt;
+de fichier XML en C#.&lt;br /&gt;
+&lt;br /&gt;
+	Le principe de ce projet est donc de pouvoir lire des flux rss de la manière la plus simple&lt;br /&gt;
+possible. Il n'y a pas de gestion de recharge automatique (peut être pour une V2 ^^). On peut ajouter, &lt;br /&gt;
+supprimer et modifier les différents flux enregistrer.&lt;br /&gt;
+&lt;br /&gt;
+L'application est diviser en deux sous projet (Core et UIRssReader). Le projet Core correspond au fonctionnement &lt;br /&gt;
+global de l'application (sauvegarde et lecture des flux). Le projet UIRssReader est l'interface utilisateur de l'application.
+&lt;/p&gt;
+&lt;h2&gt;Liens&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/VincentVoyer/Rss-Reader&quot;&gt;Projet&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Présentation Réaliser en DUT, cette application avais pour but de m'exercer sur la manipulation de fichier XML en C#. Le principe de ce projet est donc de pouvoir lire des flux rss de la manière la plus simple possible. Il n'y a pas de gestion de recharge automatique (peut être pour une V2 ^^). On peut ajouter, supprimer et modifier les différents flux enregistrer. L'application est diviser en deux sous projet (Core et UIRssReader). Le projet Core correspond au fonctionnement global de l'application (sauvegarde et lecture des flux). Le projet UIRssReader est l'interface utilisateur de l'application. Liens Projet</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/GitHub.png" /></entry></feed>
